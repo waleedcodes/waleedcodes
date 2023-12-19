@@ -90,6 +90,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/waleedcodes/waleedcodes/output/snake.svg" alt="Snake animation" />
 
-###
