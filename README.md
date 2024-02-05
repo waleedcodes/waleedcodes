@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Full Stack Engineer Course**<br>🌱 I’m currently learning Front Stack<br>🤝 I’m looking for help with Next Js<br>👨‍💻 All of my projects are available at https://waleedcodes-dev-portfolio.vercel.app/<br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, React, Strapi, Git<br>📫 How to reach me waleedishfaq1515@gmail.com
+🔭 I’m currently working on **Full Stack Engineer Course**<br>🌱 I’m currently learning **Full Stack**<br>🤝 I’m looking for help with Next Js<br>👨‍💻 All of my projects are available at https://waleedcodes-dev-portfolio.vercel.app/<br>💬 Ask me about HTML, CSS, Bootstrap, JavaScript, React, Strapi, Git<br>📫 How to reach me waleedishfaq1515@gmail.com
 
 
 ## 🌐 Socials:
