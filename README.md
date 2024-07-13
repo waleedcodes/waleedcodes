@@ -44,7 +44,7 @@ I'm particularly interested in exploring the power of Next.js to create dynamic 
 ![](https://github-contributor-stats.vercel.app/api?username=waleedcodes&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=waleedcodes&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=waleedcodes&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
