@@ -7,22 +7,6 @@ I'm particularly interested in exploring the power of Next.js to create dynamic 
 **Portfolio:** Check out my projects at: https://waleedcodes-dev-portfolio.vercel.app/<br>
 **Email:** waleedishfaq1515@gmail.com
 
-**Frontend:**
-* HTML5
-* CSS3 (including frameworks like Bootstrap)
-* JavaScript (ES6+)
-
-**Backend:**
-* Node.js (with frameworks like Express.js)
-* APIs (RESTful and GraphQL)
-
-**Fullstack:**
-* React (with frameworks like Next.js)
-* Content Management Systems (CMS) like Strapi
-
-**Version Control:**
-* Git
-
 **Always Learning:**
 * New frameworks and libraries
 * Best practices for clean, maintainable code
