@@ -1,10 +1,10 @@
 #  Waleed Ishfaq - Full Stack Developer
 
-Hi there!  I'm Waleed Ishfaq, a passionate full-stack developer constantly honing my craft. I'm currently enrolled in a Full Stack Engineer Course, actively learning and building real-world applications. ️
+Hi! I'm Waleed Ishfaq, a full-stack developer with 3 years of experience in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, and more. I specialize in building dynamic, performant web apps and am passionate about Next.js. I also create web development content on YouTube.
 
-I'm particularly interested in exploring the power of Next.js to create dynamic and performant web experiences. ⚡️ Feel free to reach out if you have any questions about Next.js, or if you'd like to discuss HTML, CSS, Bootstrap, JavaScript, React, Strapi, or Git! I'm always happy to help or learn from others. 
+I'm particularly interested in exploring the power of Next.js to create dynamic and performant web experiences. ⚡️ Feel free to reach out if you have any questions about Next.js, or if you'd like to discuss HTML, CSS, Bootstrap, JavaScript, React, Strapi, or Git! I'm always happy to help or learn from others.
 
-**Portfolio:** Check out my projects at: https://waleedcodes-dev-portfolio.vercel.app/<br>
+**Portfolio:** Check out my projects at: [Dev Portfolio](https://waleedcodes-portfolio.vercel.app/)<br>
 **Email:** waleedishfaq1515@gmail.com
 
 **Always Learning:**
