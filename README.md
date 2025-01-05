@@ -1,5 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=waleedcodes&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+[![wakatime](https://wakatime.com/badge/user/b951d73e-41a0-4729-9738-e308642839a0.svg)](https://wakatime.com/@b951d73e-41a0-4729-9738-e308642839a0)
+
+
 #  Waleed Ishfaq - Full Stack Developer
 
 Hi! I'm Waleed Ishfaq, a full-stack developer with 3 years of experience in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, and more. I specialize in building dynamic, performant web apps and am passionate about Next.js. I also create web development content on YouTube.
