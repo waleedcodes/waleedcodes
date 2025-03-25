@@ -2,25 +2,28 @@
 
 [![wakatime](https://wakatime.com/badge/user/b951d73e-41a0-4729-9738-e308642839a0.svg)](https://wakatime.com/@b951d73e-41a0-4729-9738-e308642839a0)
 
-
-##  Waleed Ishfaq - Full Stack Developer
-
-I'm Waleed Ishfaq, a full-stack developer with 3 years of experience in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, and more. I specialize in building high-performance, scalable web applications and have a strong passion for Next.js and AI-powered SaaS development.
-
-Beyond coding, I create project-based web development tutorials on my YouTube channel, WaleedCodes, where I share full-stack development insights, practical coding challenges, and deep dives into modern web technologies. Currently, I'm focused on integrating AI into SaaS products, exploring automation in video editing, and pushing the boundaries of AI-driven web applications.
+# Hi, I'm Waleed Ishfaq! 👋 
 
 <br>
 
-## 💡 What I Do:
+I'm a **Full-Stack Developer** with **3 years of experience** in **HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, and more**. I specialize in building **high-performance, scalable web applications** with a strong passion for **Next.js and AI-powered SaaS development**. I also create **web development tutorials** on my YouTube channel **[WaleedCodes](https://www.youtube.com/@WaleedCodes)**.  
 
-- Full-Stack Development – Building modern web applications with React, Next.js, and AI integrations.
+<br>
 
-- Content Creation – Teaching web development through engaging video tutorials.
+## 🔥 What I'm Working On  
 
-- AI-Powered SaaS – Developing tools like VisioFlow, an automated video editing platform.
+🚀 **AI Video Generator SaaS** – A full-stack AI-powered platform for automated video creation.  
+⚡ **Elementra UI** – A modern, customizable UI component library.  
+🎥 **YouTube Content** – Sharing full-stack development tutorials and AI integrations.  
 
-- Tech Exploration – Experimenting with AI, automation, and modern web trends.
-  
+<br>
+
+## 🛠 Tech Stack  
+
+- **Frontend:** Next.js, React, Tailwind CSS, TypeScript, Elementra UI  
+- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
+- **AI & Automation:** AI Video Generation, SaaS Automation, AI-Powered Workflows  
+
 <br>
 
 ## ⚡ Let’s Connect!
