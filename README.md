@@ -6,23 +6,11 @@
 
 <br>
 
-I'm a **Full-Stack Developer** with **3 years of experience** in **HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, and more**. I specialize in building **high-performance, scalable web applications** with a strong passion for **Next.js and AI-powered SaaS development**. I also create **web development tutorials** on my YouTube channel **[WaleedCodes](https://www.youtube.com/@WaleedCodes)**.  
+Hi, I’m **Waleed Ishfaq**, a **Full-Stack Developer** with over **4 years** of experience building modern, high-performing web applications. I work primarily with the **MERN stack**, and my go-to tools include **Next.js, React, Tailwind CSS, Node.js, Express.js, MongoDB, and PostgreSQL**.
 
-<br>
+Right now, I’m focused on **building full-stack platforms** that combine clean design with robust **backend architecture**, including projects that integrate **AI-powered** features to enhance functionality and automation. I’m also developing a **custom UI component library** called **Elementra UI** to streamline frontend development and maintain design consistency.
 
-## 🔥 What I'm Working On  
-
-🚀 **AI Video Generator SaaS** – A full-stack AI-powered platform for automated video creation.  
-⚡ **Elementra UI** – A modern, customizable UI component library.  
-🎥 **YouTube Content** – Sharing full-stack development tutorials and AI integrations.  
-
-<br>
-
-## 🛠 Tech Stack  
-
-- **Frontend:** Next.js, React, Tailwind CSS, TypeScript, Elementra UI  
-- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
-- **AI & Automation:** AI Video Generation, SaaS Automation, AI-Powered Workflows  
+Proficient in both **frontend and backend** development, I bring a strong understanding of **RESTful APIs, authentication/authorization, database design, and DevOps tools**. I thrive in fast-paced, collaborative environments and take pride in writing clean, efficient, and **scalable code** that solves real-world problems.
 
 <br>
 
