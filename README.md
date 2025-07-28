@@ -14,16 +14,40 @@ Proficient in both **frontend and backend** development, I bring a strong unders
 
 <br>
 
-## ⚡ Let’s Connect!
-If you're interested in Next.js, AI-driven SaaS, or full-stack development, let’s chat! Always open to discussions, collaborations, and learning together. 🚀
+### 🛠️ Tech Stack & Skills
 
+#### 👨‍💻 Languages
 
-<br>
+`JavaScript` `TypeScript` `HTML5` `CSS3` `SQL` `NoSQL` `JSON` `Markdown`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waleedcodes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+#### 🧱 Frontend
+`React.js` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `Framer Motion` `ShadCN/UI` `Swiper.js` `AOS Animate` `Styled Components` `Chart.js`
 
+#### 🖥️ Backend
+`Node.js` `Express.js` `REST APIs` `JWT` `OAuth2` `Session Auth` `Passport.js` `Mongoose` `PostgreSQL` `MongoDB` `Prisma ORM`
+
+#### ⚙️ Tools & DevOps
+`Git` `GitHub` `Vercel` `Netlify`  `Render` `Postman` `Docker` `Figma` `VS Code` `Cursor IDE` `Wakatime`
+
+#### 🧠 AI & Automation
+`OpenAI API` `LangChain` `Prompt Engineering` `Automated Video Tools (VisioFlow)` `AI Chatbot Integrations`
+
+#### 📦 CMS & Platforms
+`Strapi` `WordPress` `Supabase` `Firebase` `Pinata.cloud` `Stripe` `PayPal` `Sanity.io`
+
+#### 📚 Other Skills
+`Responsive Web Design` `Authentication/Authorization` `Database Design` `Performance Optimization` `Server Deployment` `API Security` `Content Creation`
+
+---
+
+## 🔥 Currently Building
+- ⚡ **Elementra UI** – A lightweight custom UI kit for modern web apps
+- 🧠 **AI-powered SaaS platform** for video editing automation
+- 💼 **MERN E-Commerce System** with persistent cart and PayPal integration
+- 🏫 **College Management System** (MERN + PostgreSQL)
+- 🎓 **Interactive Quizzes** for learning tech concepts (React/Node.js)
+
+  
 <br>
 
 ## Let's Collaborate!
