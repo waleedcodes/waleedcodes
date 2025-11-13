@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=waleedcodes&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 [![wakatime](https://wakatime.com/badge/user/b951d73e-41a0-4729-9738-e308642839a0.svg)](https://wakatime.com/@b951d73e-41a0-4729-9738-e308642839a0)
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/waleedcodes.svg)](https://user-badge.committers.top/pakistan_private/waleedcodes)
+
 
 # Hi, I'm Waleed Ishfaq! 👋 
 
