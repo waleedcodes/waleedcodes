@@ -55,7 +55,7 @@ Proficient in both **frontend and backend** development, I bring a strong unders
 ## Let's Collaborate!
 I'm passionate about working on exciting projects and collaborating with other developers. Whether it's an open-source initiative or a job opportunity, feel free to reach out to me. Let's build something amazing together!
 
-**Portfolio:** Check out my projects at: [Dev Portfolio](https://waleedcodes-portfolio.vercel.app/)<br>
+**Portfolio:** Check out my projects at: [Portfolio](https://waleedcodes.vercel.app/)<br>
 **Email:** waleedishfaq1515@gmail.com
 
 <br>
