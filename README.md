@@ -1,10 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Waleed%20Ishfaq&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Founder%20%40UnifyCSS%20%26%20%40ElementraUI&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=waleedcodes&label=Profile%20Views&icon=5&pretty=true&color=6366F1" />
-</a>
 <a href="https://wakatime.com/@b951d73e-41a0-4729-9738-e308642839a0">
   <img src="https://wakatime.com/badge/user/b951d73e-41a0-4729-9738-e308642839a0.svg" />
 </a>
@@ -15,7 +9,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%40+TechEves+IT+Solutions;Founder+of+UnifyCSS+%26+ElementraUI;Teaching+7K+%2B+Devs+on+YouTube;Building+with+the+MERN+Stack+%2B+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer+%40+TechEves+IT+Solutions;Founder+of+UnifyCSS+%26+ElementraUI;Teaching+7K+%2B+Devs+on+YouTube;Building+with+the+MERN+Stack+%2B+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +30,7 @@
 
 | 🎯 Experience | 📦 Projects | 🧠 Technologies | 👥 Followers | 🎥 Subscribers |
 |:---:|:---:|:---:|:---:|:---:|
-| **4+ yrs** | **22** | **25** | **250+** | **7.2K+** |
+| **5+ yrs** | **22** | **25** | **250+** | **7.2K+** |
 
 </div>
 
@@ -76,7 +70,7 @@ Outside my day job, I'm the **Founder of UnifyCSS** (a modern, developer-first C
 
 <table>
 <tr>
-<td width="70%" valign="top">
+<td width="60%" valign="top">
 
 ### 🏢 Full Stack Engineer — TechEves IT Solutions
 **Aug 2022 – Present · Abbottabad, Pakistan**
@@ -93,7 +87,7 @@ Building and maintaining client web applications across multiple industries — 
 - Deploying to **Vercel, Render** & cloud platforms
 
 </td>
-<td width="30%" valign="top">
+<td width="40%" valign="top">
 
 ### 🎥 Content Creator
 **WaleedCodes · Feb 2022 – Present**
@@ -252,7 +246,7 @@ My own open-source React component library — reusable, accessible, well-docume
 
 ## 🛠️ Skills & Expertise
 
-<div align="center">
+<div align="">
 
 ### 🧱 Frontend
 <img src="https://img.shields.io/badge/React.js-100%25-6366F1?style=flat-square&logo=react&logoColor=white"/>
@@ -309,7 +303,7 @@ My own open-source React component library — reusable, accessible, well-docume
 ## 🎓 Education & Certifications
 
 <table>
-<tr><td width="50%" valign="top">
+<tr><td width="100%" valign="top">
 
 ### 🏫 Education
 
@@ -319,7 +313,14 @@ My own open-source React component library — reusable, accessible, well-docume
 | Diploma in Commerce | KP Board of Technical Education | 2021 – 2023 |
 | SSC — Biology | FG Public School, Abbottabad | 2012 – 2021 |
 
-</td><td width="50%" valign="top">
+</td>
+</table>
+
+
+<table>
+  
+<table>
+<tr><td width="100%" valign="top">
 
 ### 📜 Certifications
 
@@ -334,18 +335,16 @@ My own open-source React component library — reusable, accessible, well-docume
 </td></tr>
 </table>
 
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=3&width=100%"/>
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=waleedcodes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=waleedcodes&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedcodes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6"/>
 
 </div>
 
@@ -355,7 +354,7 @@ My own open-source React component library — reusable, accessible, well-docume
 
 ## 🤝 Let's Collaborate
 
-<div align="center">
+<div align="">
 
 I'm passionate about working on exciting projects and collaborating with other developers. Whether it's an open-source initiative, a freelance project, or a job opportunity — feel free to reach out. Let's build something amazing together!
 
